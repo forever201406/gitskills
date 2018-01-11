@@ -1,2 +1,2 @@
 # gitskills# test
-# createing a new branch is quick
+# createing a new branch is quick AND simple
